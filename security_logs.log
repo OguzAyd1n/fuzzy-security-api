@@ -1,0 +1,61 @@
+2025-04-02 09:59:54 -  * Debugger is active!
+2025-04-02 09:59:54 -  * Debugger PIN: 865-963-928
+2025-04-02 10:00:09 - 127.0.0.1 - - [02/Apr/2025 10:00:09] "[33mGET / HTTP/1.1[0m" 404 -
+2025-04-02 10:01:28 -  * Detected change in 'C:\\Users\\OÐUZ\\fuzzy_api_security\\app.py', reloading
+2025-04-02 10:01:30 -  * Debugger is active!
+2025-04-02 10:01:30 -  * Debugger PIN: 865-963-928
+2025-04-02 10:01:40 - 127.0.0.1 - - [02/Apr/2025 10:01:40] "[33mGET / HTTP/1.1[0m" 404 -
+2025-04-02 10:02:49 -  * Detected change in 'C:\\Users\\OÐUZ\\fuzzy_api_security\\app.py', reloading
+2025-04-02 14:13:12 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.105:5000
+2025-04-02 14:13:12 - [33mPress CTRL+C to quit[0m
+2025-04-02 14:13:12 -  * Restarting with stat
+2025-04-02 14:13:13 -  * Debugger is active!
+2025-04-02 14:13:13 -  * Debugger PIN: 865-963-928
+2025-04-02 14:13:32 - 127.0.0.1 - - [02/Apr/2025 14:13:32] "GET / HTTP/1.1" 200 -
+2025-04-02 14:14:14 - 127.0.0.1 - - [02/Apr/2025 14:14:14] "[31m[1mGET /data HTTP/1.1[0m" 403 -
+2025-04-02 14:17:31 - 127.0.0.1 - - [02/Apr/2025 14:17:31] "[31m[1mGET /login HTTP/1.1[0m" 405 -
+2025-04-02 14:20:35 - 127.0.0.1 - - [02/Apr/2025 14:20:35] "POST /login HTTP/1.1" 200 -
+2025-04-02 14:20:55 - 127.0.0.1 - - [02/Apr/2025 14:20:55] "[35m[1mGET /data HTTP/1.1[0m" 500 -
+2025-04-03 14:40:43 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.105:5000
+2025-04-03 14:40:43 - [33mPress CTRL+C to quit[0m
+2025-04-03 14:40:43 -  * Restarting with stat
+2025-04-03 14:40:44 -  * Debugger is active!
+2025-04-03 14:40:44 -  * Debugger PIN: 865-963-928
+2025-04-03 14:41:12 - 127.0.0.1 - - [03/Apr/2025 14:41:12] "POST /login HTTP/1.1" 200 -
+2025-04-03 14:41:35 - 127.0.0.1 - - [03/Apr/2025 14:41:35] "[35m[1mGET /data HTTP/1.1[0m" 500 -
+2025-04-03 14:46:00 -  * Detected change in 'C:\\Users\\OÐUZ\\fuzzy_api_security\\app.py', reloading
+2025-04-03 14:46:01 -  * Restarting with stat
+2025-04-03 15:00:55 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.105:5000
+2025-04-03 15:00:55 - [33mPress CTRL+C to quit[0m
+2025-04-03 15:00:55 -  * Restarting with stat
+2025-04-03 15:00:56 -  * Debugger is active!
+2025-04-03 15:00:56 -  * Debugger PIN: 865-963-928
+2025-04-04 15:55:58 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.105:5000
+2025-04-04 15:55:58 - [33mPress CTRL+C to quit[0m
+2025-04-04 15:55:58 -  * Restarting with stat
+2025-04-04 15:55:59 -  * Debugger is active!
+2025-04-04 15:55:59 -  * Debugger PIN: 865-963-928
+2025-04-04 15:58:06 - 127.0.0.1 - - [04/Apr/2025 15:58:06] "GET / HTTP/1.1" 200 -
+2025-04-04 15:58:06 - 127.0.0.1 - - [04/Apr/2025 15:58:06] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-04-04 15:58:44 - 127.0.0.1 - - [04/Apr/2025 15:58:44] "POST /login HTTP/1.1" 200 -
+2025-04-04 15:59:31 - 127.0.0.1 - - [04/Apr/2025 15:59:31] "[31m[1mGET /data HTTP/1.1[0m" 400 -
+2025-04-04 16:00:25 -  * Detected change in 'C:\\Users\\OÐUZ\\fuzzy_api_security\\app.py', reloading
+2025-04-04 16:00:27 -  * Restarting with stat
+2025-04-04 16:00:28 -  * Debugger is active!
+2025-04-04 16:00:28 -  * Debugger PIN: 865-963-928
+2025-04-04 16:00:32 - 127.0.0.1 - - [04/Apr/2025 16:00:32] "GET / HTTP/1.1" 200 -
+2025-04-04 16:00:50 - Request: 68, Response Time: 973, Failed Attempts: 9, Risk: 75.00000000000003
+2025-04-04 16:00:50 - 127.0.0.1 - - [04/Apr/2025 16:00:50] "[31m[1mGET /data HTTP/1.1[0m" 403 -
+2025-04-04 16:01:39 - 127.0.0.1 - - [04/Apr/2025 16:01:39] "GET / HTTP/1.1" 200 -
